@@ -1,0 +1,7 @@
+{
+  "item.pra.pra_transmitter": "Personal Redstone Assistant",
+  "block.pra.receiver": "P.R.A. Receiver",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.pra": "P.R.A."
+}

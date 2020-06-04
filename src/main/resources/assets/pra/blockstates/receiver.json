@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "pra:block/receiver" }
+  }
+}
